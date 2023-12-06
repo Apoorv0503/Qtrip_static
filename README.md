@@ -3,6 +3,8 @@
 
 Welcome to QTrip! It is travel website with the Static features using HTML, CSS, JavaScript and Bootstrap.
 
+Website URL: https://bug-apd-qtrip.netlify.app/
+
 ## This QTrip website will have these 3 pages:
 
 ### 1. Landing Page - 
